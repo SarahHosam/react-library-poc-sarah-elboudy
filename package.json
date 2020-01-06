@@ -4,9 +4,10 @@
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
-    "@testing-library/user-event": "^7.2.1"
+    "@testing-library/user-event": "^7.2.1",
+    "babel-cli": "^6.26.0"
   },
-  "devDependencies":{
+  "devDependencies": {
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "3.3.0"
@@ -34,11 +35,16 @@
   },
   "main": "dist/index.js",
   "module": "dist/index.js",
-  "files": [ "dist", "README.md" ],
+  "files": [
+    "dist",
+    "README.md"
+  ],
   "repository": {
     "type": "git",
-    "url": "URL_OF_YOUR_REPOSITORY"
-    },
+    "url": "https://github.com/SarahHosam/react-library-poc-sarah-elboudy.git"
+  },
   "author": "Sarah Hosam Elboudy",
-  "keyword": ["library-poc-sarah-elboudy"]
+  "keyword": [
+    "library-poc-sarah-elboudy"
+  ]
 }
